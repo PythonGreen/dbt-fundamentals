@@ -68,8 +68,6 @@ In working on this project, we established some conventions for naming our model
 * Read more here in [testing documentation](https://docs.getdbt.com/reference/node-selection/test-selection-examples)
 * In development, dbt Cloud will provide a visual for your test results. Each test produces a log that you can view to investigate the test results further
 
-
-
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
 - Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
